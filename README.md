@@ -1,5 +1,6 @@
 STARTER CODE:
 
+
 """Gomoku starter code
 You should complete every incomplete function,
 and add more functions and variables as needed.
